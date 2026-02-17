@@ -11,8 +11,8 @@ ansible_httpapi_use_ssl: true
 ansible_httpapi_validate_certs: false
 
 # Credentials
-ansible_user: admin
-ansible_ssh_pass: aristaadmin
+ansible_user: arista
+ansible_ssh_pass: ujdxw351yv7spthp
 
 # Global login banner for all switches in topology
 banner_text: "This banner came from group_vars/WORKSHOP_FABRIC.yml"
